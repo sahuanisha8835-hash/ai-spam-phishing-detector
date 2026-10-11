@@ -1,0 +1,22 @@
+
+text,label
+"Hey, are we still meeting for lunch today?",ham
+"Congratulations! You won a free prize. Claim it now!",spam
+"Your account has been selected for a special reward. Click here!",spam
+"Please send me the lecture notes from today's class.",ham
+"URGENT! Verify your bank account immediately to avoid suspension.",spam
+"Your assignment deadline is tomorrow. Please submit it on time.",ham
+"Claim your cash reward now by clicking this link.",spam
+"Can we discuss the project during tomorrow's meeting?",ham
+"Your package delivery is scheduled for this afternoon.",ham
+"You have won a gift card. Claim your prize now!",spam
+"Please review the attached project report.",ham
+"Your account is locked. Verify your password immediately.",spam
+"Thank you for attending the meeting today.",ham
+"Limited offer! Get a free reward now.",spam
+"Reminder: your examination starts at 9 AM tomorrow.",ham
+"Click this suspicious link to claim an unexpected reward.",spam
+"Could you share the notes from the computer science lecture?",ham
+"Urgent payment required. Confirm your account details now.",spam
+"Let's work together on our machine learning assignment.",ham
+"Congratulations! You are eligible for a cash bonus.",spam
